@@ -148,6 +148,7 @@ FLOWS = [
     "myq",
     "mysensors",
     "neato",
+    "neptune_apex",
     "nest",
     "netatmo",
     "nexia",
