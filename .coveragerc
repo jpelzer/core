@@ -642,6 +642,7 @@ omit =
     homeassistant/components/neato/vacuum.py
     homeassistant/components/nederlandse_spoorwegen/sensor.py
     homeassistant/components/nello/lock.py
+    homeassistant/components/neptune_apex/*
     homeassistant/components/nest/legacy/*
     homeassistant/components/netatmo/data_handler.py
     homeassistant/components/netatmo/sensor.py
